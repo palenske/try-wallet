@@ -14,9 +14,6 @@ Suas principais funções são:
   - Visualizar o total de gastos convertidos para uma moeda de escolha;
 Para realizar a conversão de moedas, nossa aplicação consome a [API](https://economia.awesomeapi.com.br/json/all) que fornece a cotação atualizada.
 
-
-Projeto realizado como forma de avaliação. Link do repositório original ~> [ByTrybe](https://github.com/tryber/sd-010-b-project-trybewallet/tree/palenske-trybewallet)
-
 ## Tecnologias usadas
 - React
 - Redux
