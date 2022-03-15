@@ -1,5 +1,5 @@
 <h1 align="center">
-  TrybeWallet Project
+  TryWallet Project
 </h1>
 <h4 align="center"> 
   :dollar: Gerenciamento de gastos :money_with_wings:	
