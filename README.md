@@ -29,12 +29,11 @@ Para realizar a conversão de moedas, nossa aplicação consome a [API](https://
 
 
 ## Como rodar a aplicação
+> Certifique-se de que tenha o Git e o NPM instalados em sua máquina
 - Faça um clone do repositório em sua máquina:
-  `git clone https://github.com/palenske/frontend-project_trybewallet.git`
+  `git clone https://github.com/palenske/trybe-wallet.git`
 - Entre no diretório do projeto:
-  `cd frontend-project_trybewallet`
-- Mude para a branch deste projeto:
-  `git checkout palenske-trybewallet`
+  `cd trybe-wallet`
 - Instale as dependências:
   `npm install`
 - Inicie a aplicação:
