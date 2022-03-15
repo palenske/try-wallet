@@ -29,7 +29,8 @@ Para realizar a conversão de moedas, nossa aplicação consome a [API](https://
 
 
 ## Como rodar a aplicação
-> Certifique-se de que tenha o Git e o NPM instalados em sua máquina
+> Certifique-se de que tenha o Git e o NPM instalados em sua máquina. Caso não os tenha rode os seguintes comandos:
+> `sudo apt install git-all` && `sudo apt install npm`
 - Faça um clone do repositório em sua máquina:
   `git clone https://github.com/palenske/trybe-wallet.git`
 - Entre no diretório do projeto:
@@ -38,7 +39,7 @@ Para realizar a conversão de moedas, nossa aplicação consome a [API](https://
   `npm install`
 - Inicie a aplicação:
   `npm start`
-> Para fazer o login na carteira, é necessário um email no formato `mail@mail.com` e uma senha de no mínimo 6 dígitos.
+> Para fazer o login na carteira, é necessário um email (fictício) no formato `mail@mail.com` e uma senha (fictícia) de no mínimo 6 dígitos.
 
 ## Gerencie seus gastos
 <img alt="rodando aplicação TrybeWallet" src="./public/trybeWallet.gif">
