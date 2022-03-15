@@ -42,7 +42,7 @@ class Login extends React.Component {
     } return (
       <div className="main-box">
         <div className="login-box">
-          <div className="login-header"><h1>TrybeWallet</h1></div>
+          <div className="login-header"><h1>Try-Wallet</h1></div>
           <input
             data-testid="email-input"
             type="text"
