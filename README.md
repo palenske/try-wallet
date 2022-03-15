@@ -3,7 +3,7 @@
 </h1>
 <h4 align="center"> 
   :dollar: Gerenciamento de gastos :money_with_wings:	
-</h4> :d
+</h4>
 
 ## Sobre o projeto
 
@@ -28,8 +28,8 @@ Para realizar a conversão de moedas, nossa aplicação consome a [API](https://
 - Criar actions assíncronas na sua aplicação _React_ que faz uso de _Redux_.
 
 
-## [Link da aplicação](https://palenske-trybewallet.herokuapp.com/) 🍽️
+## [Link da aplicação](https://palenske-try-wallet.herokuapp.com/) 🍽️
 > Para fazer o login na carteira, é necessário um email (fictício) no formato `mail@mail.com` e uma senha (fictícia) de no mínimo 6 dígitos.
 
 ## Gerencie seus gastos
-<img alt="rodando aplicação TrybeWallet" src="./public/trybeWallet.gif">
+<img alt="rodando aplicação Try-Wallet" src="./public/trybeWallet.gif">
