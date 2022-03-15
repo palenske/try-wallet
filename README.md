@@ -3,7 +3,7 @@
 </h1>
 <h4 align="center"> 
   :dollar: Gerenciamento de gastos :money_with_wings:	
-</h4>
+</h4> :d
 
 ## Sobre o projeto
 
@@ -28,17 +28,7 @@ Para realizar a conversão de moedas, nossa aplicação consome a [API](https://
 - Criar actions assíncronas na sua aplicação _React_ que faz uso de _Redux_.
 
 
-## Como rodar a aplicação
-> Certifique-se de que tenha o Git e o NPM instalados em sua máquina. Caso não os tenha rode os seguintes comandos:
-> `sudo apt install git-all` && `sudo apt install npm`
-- Faça um clone do repositório em sua máquina:
-  `git clone https://github.com/palenske/trybe-wallet.git`
-- Entre no diretório do projeto:
-  `cd trybe-wallet`
-- Instale as dependências:
-  `npm install`
-- Inicie a aplicação:
-  `npm start`
+## [Link da aplicação](https://palenske-trybewallet.herokuapp.com/) 🍽️
 > Para fazer o login na carteira, é necessário um email (fictício) no formato `mail@mail.com` e uma senha (fictícia) de no mínimo 6 dígitos.
 
 ## Gerencie seus gastos
